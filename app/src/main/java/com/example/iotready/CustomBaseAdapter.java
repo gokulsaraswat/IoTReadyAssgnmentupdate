@@ -41,6 +41,7 @@ public class CustomBaseAdapter extends BaseAdapter {
         TextView txtv = (TextView) view.findViewById(R.id.textvaluepresent);
         txtd.setText(Data[i]);
         txtv.setText(Values[i]);
+
         return view;
     }
 }
