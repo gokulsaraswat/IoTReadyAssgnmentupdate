@@ -10,7 +10,7 @@ By Creating a CustomListview using customAdaptor and aligning the elements the p
 Two Buttons and one TextView is also added such to mimic the assignment.
 
 ## Portrait Version
-![Portrait](https://github.com/gokulsaraswat/IoTReadyAssgnmentupdate/blob/master/portrait1.png)
+![Portrait](https://github.com/gokulsaraswat/IoTReadyAssgnmentupdate/blob/master/image1.png)
 
 ## Landscape Version
-![Landscape](https://github.com/gokulsaraswat/IoTReadyAssignment/blob/master/image1.png)
+![Landscape](https://github.com/gokulsaraswat/IoTReadyAssgnmentupdate/blob/master/portrait1.png)
